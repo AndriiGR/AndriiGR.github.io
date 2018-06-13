@@ -333,7 +333,7 @@ footer { background: #e8e8e8; padding: 38px 0 100px; }
   .header-top .navbar-default .navbar-nav > li { margin-right: 0; text-align: center; border-bottom: 1px solid #dedede; background: #e7e7e7; }
   .header-top .navbar-default .navbar-nav > li:last-child { border-bottom: 0; }
   .header-top .navbar-header { float: none; display: block; margin: 0; }
-  .header-top .navbar-collapse { border-top: 0; box-shadow: 0; position: absolute; width: 100%; top: 33px; left: 0; z-index: 10; background: #e7e7e7; margin: 0; }
+  .header-top .navbar-collapse { border-top: 0; box-shadow: 0; position: absolute; width: 100%; top: 32px; left: 0; z-index: 10; background: #e7e7e7; margin: 0; }
   .header-top .navbar-collapse.collapse { display: none !important; }
   .header-top .navbar-nav { float: none !important; margin-top: 0; }
   .header-top .navbar-nav > li { float: none; }
