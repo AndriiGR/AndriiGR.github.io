@@ -89,6 +89,9 @@ header {
 			height: 29px;
 			background: url("../images/phone.png") no-repeat center top;
 		}
+		&:focus {
+			text-decoration: none;
+		}
 	}
 }
 .header-main {
