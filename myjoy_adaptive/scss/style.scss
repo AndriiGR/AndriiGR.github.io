@@ -75,7 +75,7 @@ header {
 			background: url("../images/email-img.png") no-repeat center top;
 		}
 	}
-	.phone {
+	a.phone {
 		display: inline-block;
 		color: #e41984;
 		position: relative;
@@ -718,7 +718,7 @@ footer {
 	background-image: linear-gradient(to top right, rgb(183,171,255) 0%, rgb(255,152,205) 50%, rgb(255,235,154) 100%);
 	.info {
 		padding-top: 32px;
-		.phone {
+		a.phone {
 			display: block;
 			margin-bottom: 6px;
 		}
@@ -727,7 +727,7 @@ footer {
 			color: #e41984;
 			margin-bottom: 0;
 		}
-		.phone:after, .email:after {
+		a.phone:after, .email:after {
 			display: none;
 		}
 	}	
@@ -769,7 +769,7 @@ footer {
     			background-size: cover;
     		}
     	}
-    	.phone {
+    	a.phone {
     		&:after {
     			top: 2px;
 				left: -33px;
@@ -1088,7 +1088,7 @@ footer {
     			background-size: cover;
     		}
     	}
-    	.phone {
+    	a.phone {
     		display: inline-block;
     		&:after {
 				top: 4px;
@@ -1417,7 +1417,7 @@ footer {
     			background-size: cover;
     		}
     	}
-    	.phone {
+    	a.phone {
     		display: inline-block;
     		&:after {
 				top: 4px;
@@ -1751,7 +1751,7 @@ footer {
     			background-size: cover;
     		}
     	}
-    	.phone {
+    	a.phone {
     		display: inline-block;
     		&:after {
 				top: 4px;
@@ -2091,7 +2091,7 @@ footer {
     			left: -36px;
     		}
     	}
-    	.phone {
+    	a.phone {
     		&:after {
 				left: -42px;
 			    width: 26px;
